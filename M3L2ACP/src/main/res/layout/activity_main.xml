@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="193dp"
+                android:layout_height="207dp"
+                android:layout_marginTop="52dp"
+                app:srcCompat="@drawable/img_20190129_184819" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="202dp"
+                android:layout_height="281dp"
+                android:layout_marginTop="36dp"
+                app:srcCompat="@drawable/img_20190129_184837" />
+
+            <TextView
+                android:layout_width="363dp"
+                android:layout_height="467dp"
+                android:layout_marginTop="39dp"
+                android:text="My pet dog is my best friend in the world. We sleep together, eat together, play together and also love our mom and dad together. He is not just our pet dog but my brother and an important member of my family.  The unconditional love and loyalty he shows to us are never seen in anybody that I know off. He is the cutest person in our family, including me, and loves to take photos with me all the time.  We found him near our house on the streets, on a rainy night and ever since that cold and scary night, he has been with us and has become an important part of my life. He is always the first one to greet me whenever I come back home from outside. He is a foodie who likes to eat pedigree and biscuits. He also eats curd rice sometimes. He eats three times a day with me and sleeps twice or sometimes thrice whenever he is tired after playing outside. He not only loves our family but also acts as a guardian to our house and helps in keeping thieves and bad people away from us. My pet dog is named as Raamu and I love him very much."
+                android:textColor="#000000"
+                android:textSize="17dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
