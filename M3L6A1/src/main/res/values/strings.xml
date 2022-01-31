@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">L6A1</string>
+
+    <string name="fact_one">Rabbits cannot puke.</string>
+    <string name="fact_two">Copper door knobs are self-disinfecting.</string>
+    <string name="fact_three">The first person convicted of speeding was going eight mph.</string>
+    <string name="fact_four">Cotton candy was invented by a dentist.</string>
+    <string name="fact_five">The world wastes about 1 billion metric tons of food each year.</string>
+    <string name="fact_six">Marie Curie is the only person to earn a Nobel prize in two different sciences.</string>
+    <string name="fact_seven">The English word with the most definitions is "set."</string>
+    <string name="fact_eight">Pigeons can tell the difference between a painting by Monet and Picasso.</string>
+    <string name="fact_nine">Chewing gum boosts concentration.</string>
+    <string name="fact_ten">Dolphins have been trained to be used in wars.</string>
+
+</resources>
