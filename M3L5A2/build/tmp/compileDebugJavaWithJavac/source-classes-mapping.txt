@@ -1,0 +1,5 @@
+com/example/l5a2/BuildConfig.java
+ com.example.l5a2.BuildConfig
+com/example/l5a2/MainActivity.java
+ com.example.l5a2.MainActivity
+ com.example.l5a2.MainActivity$1
